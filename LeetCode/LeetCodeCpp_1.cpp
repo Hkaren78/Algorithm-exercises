@@ -35,5 +35,15 @@ public:
         return ret;
     }
 
+    vector<int> twoSum(vector<int>& nums, int target){
+    	Solution s;
+    	return method_2(nums, target);
+    }
     
 };
+
+vector<int> test_1(vector<int>& nums, int target)
+{
+	Solution s;
+	return s.twoSum(nums, target);
+}
