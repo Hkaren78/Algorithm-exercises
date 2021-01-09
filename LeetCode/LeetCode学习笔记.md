@@ -52,7 +52,7 @@ Dijkstra，二分图，红黑树知识等；Java的基础：Heap实现，HashMap
 
 主刷前400
 
-Leetcode 分类顺序表：[cspiration.com/leetcodeClassification](https://link.zhihu.com/?target=https%3A//cspiration.com/leetcodeClassification%2310311)
+Leetcode 分类顺序表：[cspiration.com/leetcodeClassification](https://cspiration.com/leetcodeClassification#10311)
 
 #### 3.1 第一遍——从看答案开始
 
